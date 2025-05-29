@@ -1,53 +1,52 @@
-# 👋 Hi, I'm **Saurabh Kumar**
+# 👋 Hi, I'm Saurabh Kumar
 
-🚀 **Java Backend Developer** | Spring Boot | REST APIs | OOPs Enthusiast  
-📍 Delhi, India | 💼 Open to Backend Developer Roles  
+🚀 A passionate **Java Backend Developer** skilled in **Spring Boot**, **REST APIs**, and **OOPs concepts**, with internship experience in both backend and frontend development.
+
+📍 Based in Delhi, India | 💻 Open to Java/Backend Developer roles
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend & Languages
-- **Java**, Spring Boot, Hibernate, JDBC, RESTful APIs  
+**Languages & Backend**
+- Java, Spring Boot, Hibernate, JDBC, RESTful APIs
 
-### Frontend
-- HTML, CSS, JavaScript, React.js  
+**Frontend**
+- HTML, CSS, JavaScript, React.js
 
-### Database & Tools
-- MySQL, Postman, Git, GitHub  
+**Database & Tools**
+- MySQL, Postman, Git, GitHub
 
 ---
 
 ## 💼 Internship Experience
 
-### 👨‍💻 Java Developer Intern @ **TalentServe**  
-*Mar 2024 – Sept 2024*  
-- Developed scalable backend REST APIs using Spring Boot  
-- Participated in full SDLC: design, development, testing, and deployment  
-- Conducted code reviews & bug fixes to improve code quality  
+### 👨‍💻 Java Developer Intern @ TalentServe (Mar 2024 – Sept 2024)
+- Contributed to backend APIs and learned full SDLC
+- Worked on code reviews, bug fixing, and development of scalable web apps
 
-### 🌐 Frontend Developer Intern @ **CodSoft**  
-*Jun 2023 – Aug 2023*  
-- Created responsive, user-friendly UI using HTML, CSS, JS  
-- Collaborated in agile teams to improve UI/UX across multiple projects  
+### 🌐 Frontend Developer Intern @ CodSoft (Jun 2023 – Aug 2023)
+- Built responsive and optimized web pages using HTML, CSS, JS
+- Improved UI/UX and collaborated in team-based development
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧠 [Smart Assessment Recommender](https://github.com/SAURABHGIT1027/genai-assessment-engine)  
-- Lightweight recommendation engine built with **JavaScript + StreamLit**  
-- LLM-free system focused on performance and simplicity  
-- Hosted on Render for quick and reliable access  
+### 🧠 [Smart Assessment Recommender](https://github.com/SAURABHGIT1027/genai-assessment-engine)
+- Built using JavaScript + StreamLit
+- Lightweight and LLM-free recommendation system
+- Deployed on Render
 
-### 📰 [News App (React)](https://github.com/SAURABHGIT1027/react-TextUtils)  
-- Real-time news feed with pagination & React Router  
-- Developed using React class components with performance optimizations  
+### 📰 [News App (React)](https://github.com/SAURABHGIT1027/react-TextUtils)
+- Real-time news updates using News API
+- React.js (Class Components), React Router, and pagination
+- Optimized for better performance
 
-### 🧑‍💻 Smart Attendance System  
-- Real-time facial recognition using **OpenCV + CNN model**  
-- Multi-factor authentication: face + fingerprint biometrics  
-- AI-powered system enhancing attendance accuracy & security  
+### 🧑‍💻 Smart Attendance System
+- Used **OpenCV** + **CNN model** for real-time facial recognition
+- Integrated multi-factor authentication (face + fingerprint)
+- AI + biometric-based attendance tracking system
 
 ---
 
@@ -57,13 +56,13 @@
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-33220624b/)  
-- 📧 saurabhkumar2792001@gmail.com  
-- 🧑‍💻 [GitHub](https://github.com/SAURABHGIT1027)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-33220624b/)
+- 📧 saurabhkumar2792001@gmail.com
+- 🧑‍💻 [GitHub](https://github.com/SAURABHGIT1027)
 
 ---
 
-> 💡 _“Code never lies, comments sometimes do.”_ — Ron Jeffries
+> “Code never lies, comments sometimes do.” — Ron Jeffries
 
